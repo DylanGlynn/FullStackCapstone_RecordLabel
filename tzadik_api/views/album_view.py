@@ -78,7 +78,7 @@ class AlbumView(ViewSet):
             album = Album.objects.get(pk=pk)
             order, _ = Order.objects.get_or_create(
                 user=request.auth.user,
-                created_on=None,
+                submission_datetime=None,
             )
             order.selection.add(album)
             return Response({'message': 'album added'}, status=status.HTTP_201_CREATED)
