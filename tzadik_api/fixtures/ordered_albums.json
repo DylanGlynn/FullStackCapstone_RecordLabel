@@ -1,0 +1,18 @@
+[
+    {
+        "model": "tzadik_api.orderedalbum",
+        "pk": 1,
+        "fields": {
+            "album": 5,
+            "order": 1
+        }
+    },
+    {
+        "model": "tzadik_api.orderedalbum",
+        "pk": 2,
+        "fields": {
+            "album": 4,
+            "order": 1
+        }
+    }
+]

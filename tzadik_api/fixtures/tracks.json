@@ -1,0 +1,472 @@
+[
+    {
+        "model": "tzadik_api.track",
+        "pk": 1,
+        "fields": {
+            "album": 1,
+            "disc_number": 1,
+            "track_number": 1,
+            "track_title": "Skin Eruptions"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 2,
+        "fields": {
+            "album": 1,
+            "disc_number": 1,
+            "track_number": 2,
+            "track_title": "Edema"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 3,
+        "fields": {
+            "album": 1,
+            "disc_number": 1,
+            "track_number": 3,
+            "track_title": "Stretch Marks"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 4,
+        "fields": {
+            "album": 1,
+            "disc_number": 1,
+            "track_number": 4,
+            "track_title": "The Stitch"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 5,
+        "fields": {
+            "album": 1,
+            "disc_number": 1,
+            "track_number": 5,
+            "track_title": "Malabsorption"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 6,
+        "fields": {
+            "album": 1,
+            "disc_number": 1,
+            "track_number": 6,
+            "track_title": "High Anxiety"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 7,
+        "fields": {
+            "album": 1,
+            "disc_number": 1,
+            "track_number": 7,
+            "track_title": "Dizzy Spells"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 8,
+        "fields": {
+            "album": 1,
+            "disc_number": 1,
+            "track_number": 8,
+            "track_title": "Mood Swing"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 9,
+        "fields": {
+            "album": 1,
+            "disc_number": 2,
+            "track_number": 1,
+            "track_title": "Gotu Kola"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 10,
+        "fields": {
+            "album": 1,
+            "disc_number": 2,
+            "track_number": 2,
+            "track_title": "Black Kohosh"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 11,
+        "fields": {
+            "album": 1,
+            "disc_number": 2,
+            "track_number": 3,
+            "track_title": "The Squaw Vine"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 12,
+        "fields": {
+            "album": 1,
+            "disc_number": 2,
+            "track_number": 4,
+            "track_title": "Blessed Thistle"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 13,
+        "fields": {
+            "album": 1,
+            "disc_number": 2,
+            "track_number": 5,
+            "track_title": "Silymarin"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 14,
+        "fields": {
+            "album": 1,
+            "disc_number": 2,
+            "track_number": 6,
+            "track_title": "Red Clover"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 15,
+        "fields": {
+            "album": 1,
+            "disc_number": 2,
+            "track_number": 7,
+            "track_title": "Chlorophyll Enemas"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 16,
+        "fields": {
+            "album": 1,
+            "disc_number": 2,
+            "track_number": 8,
+            "track_title": "The Black Radish"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 17,
+        "fields": {
+            "album": 1,
+            "disc_number": 2,
+            "track_number": 9,
+            "track_title": "Essence of Primrose"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 18,
+        "fields": {
+            "album": 1,
+            "disc_number": 2,
+            "track_number": 10,
+            "track_title": "Dong Quai"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 19,
+        "fields": {
+            "album": 2,
+            "disc_number": 1,
+            "track_number": 1,
+            "track_title": "Introduction"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 20,
+        "fields": {
+            "album": 2,
+            "disc_number": 1,
+            "track_number": 2,
+            "track_title": "Interlude 1 (Patton)"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 21,
+        "fields": {
+            "album": 2,
+            "disc_number": 1,
+            "track_number": 3,
+            "track_title": "Part One"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 22,
+        "fields": {
+            "album": 2,
+            "disc_number": 1,
+            "track_number": 4,
+            "track_title": "Interlude 2 (Douglas/Zorn)"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 23,
+        "fields": {
+            "album": 2,
+            "disc_number": 1,
+            "track_number": 5,
+            "track_title": "Part Two"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 24,
+        "fields": {
+            "album": 2,
+            "disc_number": 1,
+            "track_number": 6,
+            "track_title": "Interlude 3 (Laswell)"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 25,
+        "fields": {
+            "album": 2,
+            "disc_number": 1,
+            "track_number": 7,
+            "track_title": "Postlude"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 26,
+        "fields": {
+            "album": 2,
+            "disc_number": 1,
+            "track_number": 8,
+            "track_title": "Coda"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 27,
+        "fields": {
+            "album": 3,
+            "disc_number": 1,
+            "track_number": 1,
+            "track_title": "Live at the Stone"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 28,
+        "fields": {
+            "album": 4,
+            "disc_number": 1,
+            "track_number": 1,
+            "track_title": "Canto I"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 29,
+        "fields": {
+            "album": 4,
+            "disc_number": 1,
+            "track_number": 2,
+            "track_title": "Canto II"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 30,
+        "fields": {
+            "album": 4,
+            "disc_number": 1,
+            "track_number": 3,
+            "track_title": "Canto III"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 31,
+        "fields": {
+            "album": 4,
+            "disc_number": 1,
+            "track_number": 4,
+            "track_title": "Canto IV"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 32,
+        "fields": {
+            "album": 4,
+            "disc_number": 1,
+            "track_number": 5,
+            "track_title": "Canto V"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 33,
+        "fields": {
+            "album": 4,
+            "disc_number": 1,
+            "track_number": 6,
+            "track_title": "Canto VI"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 34,
+        "fields": {
+            "album": 4,
+            "disc_number": 1,
+            "track_number": 7,
+            "track_title": "Canto VII"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 35,
+        "fields": {
+            "album": 4,
+            "disc_number": 1,
+            "track_number": 8,
+            "track_title": "Canto VIII"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 36,
+        "fields": {
+            "album": 4,
+            "disc_number": 1,
+            "track_number": 9,
+            "track_title": "Canto IX"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 37,
+        "fields": {
+            "album": 5,
+            "disc_number": 1,
+            "track_number": 1,
+            "track_title": "Echidna"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 38,
+        "fields": {
+            "album": 5,
+            "disc_number": 1,
+            "track_number": 2,
+            "track_title": "Bea Spiders"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 39,
+        "fields": {
+            "album": 5,
+            "disc_number": 1,
+            "track_number": 3,
+            "track_title": "Seepy Seepy"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 40,
+        "fields": {
+            "album": 5,
+            "disc_number": 1,
+            "track_number": 4,
+            "track_title": "Scenic 3"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 41,
+        "fields": {
+            "album": 5,
+            "disc_number": 1,
+            "track_number": 5,
+            "track_title": "Part Won"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 42,
+        "fields": {
+            "album": 5,
+            "disc_number": 1,
+            "track_number": 6,
+            "track_title": "Life in a Battery"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 43,
+        "fields": {
+            "album": 5,
+            "disc_number": 1,
+            "track_number": 7,
+            "track_title": "What Do YOU Know About VELCRO?"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 44,
+        "fields": {
+            "album": 5,
+            "disc_number": 1,
+            "track_number": 8,
+            "track_title": "Scenic 4"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 45,
+        "fields": {
+            "album": 5,
+            "disc_number": 1,
+            "track_number": 9,
+            "track_title": "R&E"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 46,
+        "fields": {
+            "album": 5,
+            "disc_number": 1,
+            "track_number": 10,
+            "track_title": "Part Too"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 47,
+        "fields": {
+            "album": 5,
+            "disc_number": 1,
+            "track_number": 11,
+            "track_title": "Only Barbarians Use Forks..."
+        }
+    }
+]

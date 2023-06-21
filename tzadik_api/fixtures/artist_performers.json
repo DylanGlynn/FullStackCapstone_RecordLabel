@@ -1,0 +1,114 @@
+[
+    {
+        "model": "tzadik_api.artistperformer",
+        "pk": 1,
+        "fields": {
+            "artist": 1,
+            "performer": 1
+        }
+    },
+    {
+        "model": "tzadik_api.artistperformer",
+        "pk": 2,
+        "fields": {
+            "artist": 1,
+            "performer": 2
+        }
+    },
+    {
+        "model": "tzadik_api.artistperformer",
+        "pk": 3,
+        "fields": {
+            "artist": 1,
+            "performer": 3
+        }
+    },
+    {
+        "model": "tzadik_api.artistperformer",
+        "pk": 4,
+        "fields": {
+            "artist": 2,
+            "performer": 1
+        }
+    },
+    {
+        "model": "tzadik_api.artistperformer",
+        "pk": 5,
+        "fields": {
+            "artist": 2,
+            "performer": 2
+        }
+    },
+    {
+        "model": "tzadik_api.artistperformer",
+        "pk": 6,
+        "fields": {
+            "artist": 2,
+            "performer": 4
+        }
+    },
+    {
+        "model": "tzadik_api.artistperformer",
+        "pk": 7,
+        "fields": {
+            "artist": 2,
+            "performer": 5
+        }
+    },
+    {
+        "model": "tzadik_api.artistperformer",
+        "pk": 8,
+        "fields": {
+            "artist": 2,
+            "performer": 6
+        }
+    },
+    {
+        "model": "tzadik_api.artistperformer",
+        "pk": 9,
+        "fields": {
+            "artist": 2,
+            "performer": 7
+        }
+    },
+    {
+        "model": "tzadik_api.artistperformer",
+        "pk": 10,
+        "fields": {
+            "artist": 3,
+            "performer": 8
+        }
+    },
+    {
+        "model": "tzadik_api.artistperformer",
+        "pk": 11,
+        "fields": {
+            "artist": 3,
+            "performer": 9
+        }
+    },
+    {
+        "model": "tzadik_api.artistperformer",
+        "pk": 12,
+        "fields": {
+            "artist": 5,
+            "performer": 11
+        }
+    },
+    {
+        "model": "tzadik_api.artistperformer",
+        "pk": 13,
+        "fields": {
+            "artist": 5,
+            "performer": 10
+        }
+    },
+    {
+        "model": "tzadik_api.artistperformer",
+        "pk": 14,
+        "fields": {
+            "artist": 5,
+            "performer": 17
+        }
+    }
+]

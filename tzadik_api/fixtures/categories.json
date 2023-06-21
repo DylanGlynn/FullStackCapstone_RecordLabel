@@ -1,0 +1,146 @@
+[
+    {
+        "model": "tzadik_api.category",
+        "pk": 1,
+        "fields": {
+            "name": "New/Upcoming",
+            "description": ""
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 2,
+        "fields": {
+            "name": "Archival",
+            "description": "Who is the real John Zorn? Old, new, and historical recordings from 1973 to the present by this complex, unclassifiable maverick."
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 3,
+        "fields": {
+            "name": "Birthday & Beri'ah",
+            "description": "The best live shows from Zorn's historic performances in September 2003at Tonic celebrating his 50th birthday. The Book Beri'ah is the final chapter in the Masada legacy."
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 4,
+        "fields": {
+            "name": "Books",
+            "description": ""
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 5,
+        "fields": {
+            "name": "Composer",
+            "description": "New concert works exploring and exploding the world of classical concert music."
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 6,
+        "fields": {
+            "name": "DVD",
+            "description": "Films, live concert documents, and experimental audio/visuals by some of the most cutting edge artists working in the medium."
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 7,
+        "fields": {
+            "name": "Film Music",
+            "description": "Injecting new life into an exciting art form that continues to evolve despite Hollywood's attempts to the contrary."
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 8,
+        "fields": {
+            "name": "Key",
+            "description": "Special projects and important recordings by crucial figures in the musical avant-garde."
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 9,
+        "fields": {
+            "name": "Lunatic Fringe",
+            "description": "Some artists stand apart. Tzadik's Lunatic Fringe series excavates the inner most views from some of the outermost reaches of human creativity, bringing to light some of the most intense creative acts of our time."
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 10,
+        "fields": {
+            "name": "Merch",
+            "description": "Special limited-edition items for the discerning collector designed by our exclusive-designer Heung-Heung Chin."
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 11,
+        "fields": {
+            "name": "New Japan",
+            "description": "Breathtaking, genre-busting music from the new Japanese underground."
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 12,
+        "fields": {
+            "name": "Oracles",
+            "description": "New work celebrating the diversity and creativity of women in experimental music-making."
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 13,
+        "fields": {
+            "name": "Radical Jewish Culture",
+            "description": "Jewish music beyond klezmer: adventurous recordings bringing Jewish identity and culture into the 21st century."
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 14,
+        "fields": {
+            "name": "Special Edition",
+            "description": "Rare and unique recordings in special packages made available to the most discerning collector in an online-only release."
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 15,
+        "fields": {
+            "name": "Spectrum",
+            "description": "Tzadik celebrates its third decade of activity with a new look and an even more open and eclectic policy. Music from all over the map by the very best composer/performers working today."
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 16,
+        "fields": {
+            "name": "Spotlight",
+            "description": "What is the New Generation up to? New bands and musical projects featuring some of the most adventurous young musicians around."
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 17,
+        "fields": {
+            "name": "T-Shirts",
+            "description": ""
+        }
+    },
+    {
+        "model": "tzadik_api.category",
+        "pk": 18,
+        "fields": {
+            "name": "Vinyl",
+            "description": "Unique compilations and artful picture-discs pressed on high quality vinyl made available to the connoisseur in limited-edition pressings."
+        }
+    }
+]

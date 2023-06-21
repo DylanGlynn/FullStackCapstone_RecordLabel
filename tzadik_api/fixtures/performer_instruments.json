@@ -1,0 +1,322 @@
+[
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 1,
+        "fields": {
+            "performer": 1,
+            "instrument": 2
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 2,
+        "fields": {
+            "performer": 1,
+            "instrument": 1
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 3,
+        "fields": {
+            "performer": 2,
+            "instrument": 1
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 4,
+        "fields": {
+            "performer": 2,
+            "instrument": 3
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 5,
+        "fields": {
+            "performer": 3,
+            "instrument": 4
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 6,
+        "fields": {
+            "performer": 3,
+            "instrument": 3
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 7,
+        "fields": {
+            "performer": 4,
+            "instrument": 7
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 8,
+        "fields": {
+            "performer": 4,
+            "instrument": 8
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 9,
+        "fields": {
+            "performer": 5,
+            "instrument": 6
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 10,
+        "fields": {
+            "performer": 6,
+            "instrument": 9
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 11,
+        "fields": {
+            "performer": 7,
+            "instrument": 5
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 12,
+        "fields": {
+            "performer": 8,
+            "instrument": 5
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 13,
+        "fields": {
+            "performer": 9,
+            "instrument": 10
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 14,
+        "fields": {
+            "performer": 10,
+            "instrument": 5
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 15,
+        "fields": {
+            "performer": 10,
+            "instrument": 13
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 16,
+        "fields": {
+            "performer": 11,
+            "instrument": 9
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 17,
+        "fields": {
+            "performer": 11,
+            "instrument": 14
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 18,
+        "fields": {
+            "performer": 11,
+            "instrument": 15
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 19,
+        "fields": {
+            "performer": 11,
+            "instrument": 16
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 20,
+        "fields": {
+            "performer": 11,
+            "instrument": 17
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 21,
+        "fields": {
+            "performer": 11,
+            "instrument": 18
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 22,
+        "fields": {
+            "performer": 11,
+            "instrument": 11
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 23,
+        "fields": {
+            "performer": 11,
+            "instrument": 13
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 24,
+        "fields": {
+            "performer": 11,
+            "instrument": 19
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 25,
+        "fields": {
+            "performer": 12,
+            "instrument": 20
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 26,
+        "fields": {
+            "performer": 13,
+            "instrument": 6
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 27,
+        "fields": {
+            "performer": 14,
+            "instrument": 21
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 28,
+        "fields": {
+            "performer": 15,
+            "instrument": 5
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 29,
+        "fields": {
+            "performer": 16,
+            "instrument": 22
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 30,
+        "fields": {
+            "performer": 17,
+            "instrument": 10
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 31,
+        "fields": {
+            "performer": 17,
+            "instrument": 14
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 32,
+        "fields": {
+            "performer": 17,
+            "instrument": 15
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 33,
+        "fields": {
+            "performer": 17,
+            "instrument": 16
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 34,
+        "fields": {
+            "performer": 18,
+            "instrument": 23
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 35,
+        "fields": {
+            "performer": 19,
+            "instrument": 11
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 36,
+        "fields": {
+            "performer": 19,
+            "instrument": 24
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 37,
+        "fields": {
+            "performer": 19,
+            "instrument": 12
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 38,
+        "fields": {
+            "performer": 20,
+            "instrument": 7
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 39,
+        "fields": {
+            "performer": 21,
+            "instrument": 5
+        }
+    },
+    {
+        "model": "tzadik_api.performerinstrument",
+        "pk": 40,
+        "fields": {
+            "performer": 22,
+            "instrument": 10
+        }
+    }
+]

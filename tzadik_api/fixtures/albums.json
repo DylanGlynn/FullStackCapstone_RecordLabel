@@ -1,0 +1,87 @@
+[
+    {
+        "model": "tzadik_api.album",
+        "pk": 1,
+        "fields": {
+            "artist": 1,
+            "title": "Hemophiliac",
+            "release_date": "2002-06-01",
+            "category": 14,
+            "catalog_number": "0001",
+            "duration": "63:23",
+            "price": 47.00,
+            "description": "THIS 2002 RELEASE IS OUT OF PRINT AND NO LONGER AVAILABLE. Limited edition 2 CD set of 2,500 copies worldwide - autographed by Zorn, Patton and Mori!!! Recorded in various locations, enclosed in bizarre packaging and bound to disappear quickly!!! This brutal alto sax/voice & effects/computer trio is incredibly intense live and these recordings capture their scary sonic storm. This item was only available through the Tzadik and Ipecac websites and directly from Downtown Music Gallery . A Great Big THANK YOU to all of you who pre-ordered this limited item and made it possible!",
+            "artwork_url": "https://i.discogs.com/8ANbcUq3b3yq7Pm4ZwrMofVe1PU7Xby6Ms6EmhXga5o/rs:fit/g:sm/q:90/h:356/w:394/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDc1/MC0wMDEuanBn.jpeg",
+            "status": 6,
+            "series": ""
+        }
+    },
+    {
+        "model": "tzadik_api.album",
+        "pk": 2,
+        "fields": {
+            "artist": 2,
+            "title": "The Stone: Issue One",
+            "release_date": "2006-02-01",
+            "category": 14,
+            "catalog_number": "0002",
+            "duration": "47:47",
+            "price": 24.00,
+            "description": "Weaving beautiful and evocative tapestries of sound, this unprecedented meeting of diverse musical masters is much more than the sum of its parts. All players contribute generously from their respective musical worlds, finding common ground in this striking musical suite. At times moody, at times intense and exciting, fans of Zorn, Patton, Douglas and Laswell will all be thrilled by the empathy and passion present in this astonishing collaboration—the perfect release to benefit the downtown’s new home in the East Village. This Special edition is available online only through the Downtown Music Gallery, Tzadik and Ipecac. All proceeds from the sale of this CD will go directly to support The Stone. Only with your help can we keep The Stone alive! ALSO, a Special Edition Signed by John Zorn, limited to 1000 copies [#'d 000 - 999] is available exclusively from www.DowntownMusicGallery.com www.downtownmusicgallery.com",
+            "artwork_url": "https://i.discogs.com/zDl4a1VBhILEgApHI7z-iclfISrnqImHWfK--exybxI/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzY4/OC0xMzczMjcwNzk4/LTk1MTguanBlZw.jpeg",
+            "status": 4,
+            "series": ""
+        }
+    },
+    {
+        "model": "tzadik_api.album",
+        "pk": 3,
+        "fields": {
+            "artist": 3,
+            "title": "The Stone: Issue Two",
+            "release_date": "2007-03-01",
+            "category": 14,
+            "catalog_number": "0003",
+            "duration": "50:44",
+            "price": 24.00,
+            "description": "The second issue Benefit for The Stone presents the Fred Frith/ Chris Cutler set from the Henry Cow reunion weekend of December 2006. Ecstatically endorsed for release by Frith and Cutler, this is likely the best music this historic duo has ever made! Recorded live at The Stone, this limited edition CD is available online only through the Downtown Music Gallery, Tzadik and Ipecac. All proceeds from the sale of this CD will go directly to support The Stone. Only with your help can we keep The Stone alive.",
+            "artwork_url": "https://i.discogs.com/L5Qqz2umqFJKSFRrcdVWpnPnIrrb-zOsQRkhTqeP_kE/rs:fit/g:sm/q:90/h:446/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk2/MDItMTIwOTM3NTc0/Mi5qcGVn.jpeg",
+            "status": 4,
+            "series": ""
+        }
+    },
+    {
+        "model": "tzadik_api.album",
+        "pk": 4,
+        "fields": {
+            "artist": 4,
+            "title": "The Ninth Circle",
+            "release_date": "2021-11-01",
+            "category": 2,
+            "catalog_number": "8385",
+            "duration": "39:12",
+            "price": 19.00,
+            "description": "The latest recording by Zorn's newest ensemble Chaos Magick is a suite inspired by the ancient Greek legend of Orpheus and Eurydice. Combining contemporary classical with jazz, funk, rock, blues, film soundtrack, noise improvisation and so much more this is a wild and evocative trip thru Hell and back. Tight conductions, complex melodies, burning solos, telepathic group interaction and all the wit, humor, joy and mystery that one has come to expect from Zorn’s dedicated and passionate crew of virtuosi are in abundant display in this beautiful and unique rendering of the classic Orpheus legend.",
+            "artwork_url": "https://i.discogs.com/HDsRHK9M-KiiB3NWj9gNe_vzt5mlAIhe4hhjOn0URRk/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTM1/ODUzLTE2MzkzMDYx/NjctMjgyNC5qcGVn.jpeg",
+            "status": 4,
+            "series": ""
+        }
+    },
+    {
+        "model": "tzadik_api.album",
+        "pk": 5,
+        "fields": {
+            "artist": 5,
+            "title": "Les Rhinocéros II",
+            "release_date": "2013-05-01",
+            "category": 16,
+            "catalog_number": "7808",
+            "duration": "48:40",
+            "price": 16.00,
+            "description": "For their second CD for Tzadik, this fabulous trio takes a step toward tradition with a heavy CD of music for the classic format of guitar, bass and drums. Recorded at Bill Laswell's Orange Studio by James Dellatacoma, the sound is as intense and powerful as the music. Les Rhinocéros II is a strong second release by this tight and razor sharp new band of musical renegades.",
+            "artwork_url": "https://i.discogs.com/B5x3c0VX8mgZdJc5ie6YdrBJyOvWMptUMHopxUVGMSA/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjA5/MTItMTQ0NTMzNzcz/My05OTE5LmpwZWc.jpeg",
+            "status": 4,
+            "series": ""
+        }
+    }
+]

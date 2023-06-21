@@ -1,0 +1,11 @@
+[
+    {
+        "model": "tzadik_api.recommendation",
+        "pk": 1,
+        "fields": {
+            "recommender": 4,
+            "album_recommendation": 3,
+            "description": "Recommended!"
+        }
+    }
+]

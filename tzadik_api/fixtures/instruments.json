@@ -1,0 +1,170 @@
+[
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 1,
+        "fields": {
+            "name": "Voice"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 2,
+        "fields": {
+            "name": "Saxophone"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 3,
+        "fields": {
+            "name": "Electronics"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 4,
+        "fields": {
+            "name": "Drum Machines"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 5,
+        "fields": {
+            "name": "Drums"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 6,
+        "fields": {
+            "name": "Trumpet"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 7,
+        "fields": {
+            "name": "Organ"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 8,
+        "fields": {
+            "name": "Electric Piano"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 9,
+        "fields": {
+            "name": "Bass"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 10,
+        "fields": {
+            "name": "Guitar"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 11,
+        "fields": {
+            "name": "Fender Rhodes"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 12,
+        "fields": {
+            "name": "Mellotron"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 13,
+        "fields": {
+            "name": "Percussion"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 14,
+        "fields": {
+            "name": "Effects"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 15,
+        "fields": {
+            "name": "Loops"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 16,
+        "fields": {
+            "name": "Noise"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 17,
+        "fields": {
+            "name": "Toys"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 18,
+        "fields": {
+            "name": "Kamel N'goni"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 19,
+        "fields": {
+            "name": "Bass"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 20,
+        "fields": {
+            "name": "Violin"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 21,
+        "fields": {
+            "name": "Vocals"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 22,
+        "fields": {
+            "name": "Upright Bass"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 23,
+        "fields": {
+            "name": "Tenor Sax"
+        }
+    },
+    {
+        "model": "tzadik_api.instrument",
+        "pk": 24,
+        "fields": {
+            "name": "Piano"
+        }
+    }
+]

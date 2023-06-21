@@ -1,0 +1,47 @@
+[
+    {
+        "model": "tzadik_api.artist",
+        "pk": 1,
+        "fields": {
+            "band_name": "Hemophiliac",
+            "biography": "",
+            "website_url": ""
+        }
+    },
+    {
+        "model": "tzadik_api.artist",
+        "pk": 2,
+        "fields": {
+            "band_name": "Zorn, Douglas, Patton, Laswell, Burger, & Perowsky",
+            "biography": "",
+            "website_url": ""
+        }
+    },
+    {
+        "model": "tzadik_api.artist",
+        "pk": 3,
+        "fields": {
+            "band_name": "Fred Frith & Chris Cutler",
+            "biography": "",
+            "website_url": ""
+        }
+    },
+    {
+        "model": "tzadik_api.artist",
+        "pk": 4,
+        "fields": {
+            "band_name": "John Zorn",
+            "biography": "",
+            "website_url": ""
+        }
+    },
+    {
+        "model": "tzadik_api.artist",
+        "pk": 5,
+        "fields": {
+            "band_name": "Les Rhinocéros",
+            "biography": "",
+            "website_url": ""
+        }
+    }
+]
