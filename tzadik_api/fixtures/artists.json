@@ -43,5 +43,32 @@
             "biography": "",
             "website_url": ""
         }
+    },
+    {
+        "model": "tzadik_api.artist",
+        "pk": 6,
+        "fields": {
+            "band_name": "Secret Chiefs 3",
+            "biography": "",
+            "website_url": "https://webofmimicry.com/"
+        }
+    },
+    {
+        "model": "tzadik_api.artist",
+        "pk": 7,
+        "fields": {
+            "band_name": "PainKiller",
+            "biography": "",
+            "website_url": ""
+        }
+    },
+    {
+        "model": "tzadik_api.artist",
+        "pk": 8,
+        "fields": {
+            "band_name": "Cleric",
+            "biography": "",
+            "website_url": ""
+        }
     }
 ]

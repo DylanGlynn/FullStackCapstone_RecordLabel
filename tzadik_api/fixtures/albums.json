@@ -30,7 +30,7 @@
             "description": "Weaving beautiful and evocative tapestries of sound, this unprecedented meeting of diverse musical masters is much more than the sum of its parts. All players contribute generously from their respective musical worlds, finding common ground in this striking musical suite. At times moody, at times intense and exciting, fans of Zorn, Patton, Douglas and Laswell will all be thrilled by the empathy and passion present in this astonishing collaboration—the perfect release to benefit the downtown’s new home in the East Village. This Special edition is available online only through the Downtown Music Gallery, Tzadik and Ipecac. All proceeds from the sale of this CD will go directly to support The Stone. Only with your help can we keep The Stone alive! ALSO, a Special Edition Signed by John Zorn, limited to 1000 copies [#'d 000 - 999] is available exclusively from www.DowntownMusicGallery.com www.downtownmusicgallery.com",
             "artwork_url": "https://i.discogs.com/zDl4a1VBhILEgApHI7z-iclfISrnqImHWfK--exybxI/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzY4/OC0xMzczMjcwNzk4/LTk1MTguanBlZw.jpeg",
             "status": 4,
-            "series": ""
+            "series": "The Stone"
         }
     },
     {
@@ -47,7 +47,7 @@
             "description": "The second issue Benefit for The Stone presents the Fred Frith/ Chris Cutler set from the Henry Cow reunion weekend of December 2006. Ecstatically endorsed for release by Frith and Cutler, this is likely the best music this historic duo has ever made! Recorded live at The Stone, this limited edition CD is available online only through the Downtown Music Gallery, Tzadik and Ipecac. All proceeds from the sale of this CD will go directly to support The Stone. Only with your help can we keep The Stone alive.",
             "artwork_url": "https://i.discogs.com/L5Qqz2umqFJKSFRrcdVWpnPnIrrb-zOsQRkhTqeP_kE/rs:fit/g:sm/q:90/h:446/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk2/MDItMTIwOTM3NTc0/Mi5qcGVn.jpeg",
             "status": 4,
-            "series": ""
+            "series": "The Stone"
         }
     },
     {
@@ -64,7 +64,7 @@
             "description": "The latest recording by Zorn's newest ensemble Chaos Magick is a suite inspired by the ancient Greek legend of Orpheus and Eurydice. Combining contemporary classical with jazz, funk, rock, blues, film soundtrack, noise improvisation and so much more this is a wild and evocative trip thru Hell and back. Tight conductions, complex melodies, burning solos, telepathic group interaction and all the wit, humor, joy and mystery that one has come to expect from Zorn’s dedicated and passionate crew of virtuosi are in abundant display in this beautiful and unique rendering of the classic Orpheus legend.",
             "artwork_url": "https://i.discogs.com/HDsRHK9M-KiiB3NWj9gNe_vzt5mlAIhe4hhjOn0URRk/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTM1/ODUzLTE2MzkzMDYx/NjctMjgyNC5qcGVn.jpeg",
             "status": 4,
-            "series": ""
+            "series": "Chaos Magick"
         }
     },
     {
@@ -82,6 +82,90 @@
             "artwork_url": "https://i.discogs.com/B5x3c0VX8mgZdJc5ie6YdrBJyOvWMptUMHopxUVGMSA/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjA5/MTItMTQ0NTMzNzcz/My05OTE5LmpwZWc.jpeg",
             "status": 4,
             "series": ""
+        }
+    },
+    {
+        "model": "tzadik_api.album",
+        "pk": 6,
+        "fields": {
+            "artist": 6,
+            "title": "Xaphan: Book of Angels Volume 9",
+            "release_date": "2008-05-01",
+            "category": 2,
+            "catalog_number": "7364",
+            "duration": "55:29",
+            "price": 16,
+            "description": "Spectacular arrangements of Masada compositions by mad alchemist Trey Spruance, mastermind of Secret Chiefs 3 and one of the most brilliant musicians around. Drawing upon an astonishing array of musical styles from Exotica and Surf to Ethiopian Funk and Gypsy Swing, Trey ’s colorful orchestral arrangements perfectly compliment the lyricism and dynamic rhythmic complexity of Zorn ’s evocative Book of Angels. Featuring some of the best musicians from the Bay Area, LA and Seattle scenes, this is one of the most compelling installments in the entire Masada series.",
+            "artwork_url": "https://i.discogs.com/qXVb_HSQKrSYbx_iVjvCoaQK44t1nDCKMeRRas1bZHI/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE4/ODQtMTMyMjAzODA3/My5qcGVn.jpeg",
+            "status": 4,
+            "series": "Book of Angels"
+        }
+    },
+    {
+        "model": "tzadik_api.album",
+        "pk": 7,
+        "fields": {
+            "artist": 4,
+            "title": "444",
+            "release_date": "2023-03-01",
+            "category": 2,
+            "catalog_number": "8398",
+            "duration": "46:40",
+            "price": 19,
+            "description": "In 2020 Brian Marsella joined the heavy metal organ trio 'Simulacrum' to spawn the astonishing fusion quartet 'Chaos Magick'. This fourth CD in their ever-expanding legacy is a magical collection of instrumental music at its finest. Tighter and wilder than ever, Medeski, Hollenberg, Grohowski, and Marsella perform with a remarkable rapport in this provocative new direction from Downtown alchemist John Zorn, who has been exploring new musical worlds and confounding expectations since the 1970s! '444 is among the best things I’ve ever done.' —John Zorn","artwork_url": "https://i.discogs.com/QZaoC3tx7lQafEHTrHir1WhIZwf6qg8JUWzkICx0PNw/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njc5/MDI5LTE2ODA4NzM3/MjctNzMzMS5qcGVn.jpeg",
+            "status": 4,
+            "series": "Chaos Magick"
+        }
+    },
+    {
+        "model": "tzadik_api.album",
+        "pk": 8,
+        "fields": {
+            "artist": 7,
+            "title": "50th Birthday Celebration Volume Twelve",
+            "release_date": "2005-09-01",
+            "category": 3,
+            "catalog_number": "5012",
+            "duration": "43:16",
+            "price": 16,
+            "description": "A powerful and breathtaking meeting of masters. With the tight rhythm section of Laswell and Drake, who have a long history working together in a variety of bands and contexts, and the empathetic insanity of Patton and Zorn, this set was as much of a surprise to the musicians as it was to the pumped up crowd that were lucky enough to hear it that night. Although billed as Painkiller, this once in a lifetime unit was really something completely different. At times hilarious, exhilarating, outrageous and transcendent, this is music only the New American Underground could create. East Coast meets West Coast meets Midwest: New York, California and Chicago come together in this twisted, funky improviser’s paradise.",
+            "artwork_url": "https://i.discogs.com/zaaeHa-7vf8MdJDOOTnaR-gNYZXsAU3IVllKOS5VHBo/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjYy/MC0xMTQzNDM3NDIx/LmpwZWc.jpeg",
+            "status": 4,
+            "series": "50th Birthday Celebration"
+        }
+    },
+    {
+        "model": "tzadik_api.album",
+        "pk": 9,
+        "fields": {
+            "artist": 6,
+            "title": "The Book Beri'ah Vol 10—Malkhut",
+            "release_date": "2019-10-01",
+            "category": 3,
+            "catalog_number": "5110",
+            "duration": "43:13",
+            "price": 19,
+            "description": "Around since the mid-1990s, Secret Chiefs 3 is one of the most popular instrumental ensembles working today, with a devoted cult following and a constantly changing lineup of stellar musicians. Featuring one of the best groupings they have ever had, in 'Malkhut' they turn their hand to twelve tunes from Zorn’s 'Book Beri’ah.' Years in the making, SC3 mastermind Trey Spruance considers this to be one of his most ambitious and involved CDs to date. Even better than their 'Masada Book of Angels' release 'Xaphan', 'Malkhut' is filled with spiritual depth, meticulous detail and a amazing creativity. This is music that is essential to everyone interested in the Masada legacy—instrumental music from the outer realms!",
+            "artwork_url": "https://i.discogs.com/5tXBcob0RH7LaK924RrVmSLs_VDogucrtvG8mHFIpMo/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzA5/MzU5LTE1NzE5NDcx/MjYtODYzNC5qcGVn.jpeg",
+            "status": 4,
+            "series": "The Book Beri'ah"
+        }
+    },
+    {
+        "model": "tzadik_api.album",
+        "pk": 10,
+        "fields": {
+            "artist": 8,
+            "title": "The Book Beri'ah Vol 2—Chokhma",
+            "release_date": "2019-02-01",
+            "category": 3,
+            "catalog_number": "5102",
+            "duration": "67:55",
+            "price": 19,
+            "description": "At the forefront of the new rock complexity, Cleric is one of the most cutting edge bands out of the experimental Metal community. Here they put their hand to nine compositions from Masada Book Three. Masada fans since they were in their teens, the band has put an extra measure of creativity into this project, weaving the tunes into insane arrangements of epic proportions. Outrageous, exhilarating and intense music that combines Metal with modern classical, jazz and the Jewish tradition. You have never heard such sounds in your life!",
+            "artwork_url": "https://i.discogs.com/uP4J2mU75h2R-WdbdkErfObxSGgMVpls8rFk6N7hbvA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAx/ODIzLTE1NTczMDY1/MDQtNzc3Ny5qcGVn.jpeg",
+            "status": 4,
+            "series": "The Book Beri'ah"
         }
     }
 ]

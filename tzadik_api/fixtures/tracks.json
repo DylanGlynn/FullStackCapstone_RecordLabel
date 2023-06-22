@@ -468,5 +468,435 @@
             "track_number": 11,
             "track_title": "Only Barbarians Use Forks..."
         }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 48,
+        "fields": {
+            "album": 6,
+            "disc_number": 1,
+            "track_number": 1,
+            "track_title": "Sheburiel"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 49,
+        "fields": {
+            "album": 6,
+            "disc_number": 1,
+            "track_number": 2,
+            "track_title": "Akramachamrei"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 50,
+        "fields": {
+            "album": 6,
+            "disc_number": 1,
+            "track_number": 3,
+            "track_title": "Shoel"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 51,
+        "fields": {
+            "album": 6,
+            "disc_number": 1,
+            "track_number": 4,
+            "track_title": "Barakiel"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 52,
+        "fields": {
+            "album": 6,
+            "disc_number": 1,
+            "track_number": 5,
+            "track_title": "Bezriel"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 53,
+        "fields": {
+            "album": 6,
+            "disc_number": 1,
+            "track_number": 6,
+            "track_title": "Kemuel"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 54,
+        "fields": {
+            "album": 6,
+            "disc_number": 1,
+            "track_number": 7,
+            "track_title": "Labbiel"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 55,
+        "fields": {
+            "album": 6,
+            "disc_number": 1,
+            "track_number": 8,
+            "track_title": "Asron"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 56,
+        "fields": {
+            "album": 6,
+            "disc_number": 1,
+            "track_number": 9,
+            "track_title": "Balberith"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 57,
+        "fields": {
+            "album": 6,
+            "disc_number": 1,
+            "track_number": 10,
+            "track_title": "Omael"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 58,
+        "fields": {
+            "album": 6,
+            "disc_number": 1,
+            "track_number": 11,
+            "track_title": "Hamaya"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 59,
+        "fields": {
+            "album": 7,
+            "disc_number": 1,
+            "track_number": 1,
+            "track_title": "Splendor Solis"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 60,
+        "fields": {
+            "album": 7,
+            "disc_number": 1,
+            "track_number": 2,
+            "track_title": "Retort"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 61,
+        "fields": {
+            "album": 7,
+            "disc_number": 1,
+            "track_number": 3,
+            "track_title": "In Sulphur and in Flame"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 62,
+        "fields": {
+            "album": 7,
+            "disc_number": 1,
+            "track_number": 4,
+            "track_title": "Astral Projection"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 63,
+        "fields": {
+            "album": 7,
+            "disc_number": 1,
+            "track_number": 5,
+            "track_title": "Civil Disobedience"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 64,
+        "fields": {
+            "album": 7,
+            "disc_number": 1,
+            "track_number": 6,
+            "track_title": "With Blood I Summon Thee"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 65,
+        "fields": {
+            "album": 7,
+            "disc_number": 1,
+            "track_number": 7,
+            "track_title": "Salt and Mercury"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 66,
+        "fields": {
+            "album": 7,
+            "disc_number": 1,
+            "track_number": 8,
+            "track_title": "Tay al-Ard"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 67,
+        "fields": {
+            "album": 8,
+            "disc_number": 1,
+            "track_number": 1,
+            "track_title": "Your Inviolable Freedoms"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 68,
+        "fields": {
+            "album": 8,
+            "disc_number": 1,
+            "track_number": 2,
+            "track_title": "DPM"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 69,
+        "fields": {
+            "album": 8,
+            "disc_number": 1,
+            "track_number": 3,
+            "track_title": "Prophethood of Chaos"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 70,
+        "fields": {
+            "album": 9,
+            "disc_number": 1,
+            "track_number": 1,
+            "track_title": "Sitra Achra"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 71,
+        "fields": {
+            "album": 9,
+            "disc_number": 1,
+            "track_number": 2,
+            "track_title": "Chitzonuyut"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 72,
+        "fields": {
+            "album": 9,
+            "disc_number": 1,
+            "track_number": 3,
+            "track_title": "Shadim"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 73,
+        "fields": {
+            "album": 9,
+            "disc_number": 1,
+            "track_number": 4,
+            "track_title": "Netzokim"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 74,
+        "fields": {
+            "album": 9,
+            "disc_number": 1,
+            "track_number": 5,
+            "track_title": "Yenikah"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 75,
+        "fields": {
+            "album": 9,
+            "disc_number": 1,
+            "track_number": 6,
+            "track_title": "Netzach"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 76,
+        "fields": {
+            "album": 9,
+            "disc_number": 1,
+            "track_number": 7,
+            "track_title": "Sapar"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 77,
+        "fields": {
+            "album": 9,
+            "disc_number": 1,
+            "track_number": 8,
+            "track_title": "Mishkan"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 78,
+        "fields": {
+            "album": 9,
+            "disc_number": 1,
+            "track_number": 9,
+            "track_title": "Makif"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 79,
+        "fields": {
+            "album": 9,
+            "disc_number": 1,
+            "track_number": 10,
+            "track_title": "Atzmut"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 80,
+        "fields": {
+            "album": 9,
+            "disc_number": 1,
+            "track_number": 11,
+            "track_title": "Ayin"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 81,
+        "fields": {
+            "album": 9,
+            "disc_number": 1,
+            "track_number": 12,
+            "track_title": "Shemot"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 82,
+        "fields": {
+            "album": 10,
+            "disc_number": 1,
+            "track_number": 1,
+            "track_title": "Gadolot"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 83,
+        "fields": {
+            "album": 10,
+            "disc_number": 1,
+            "track_number": 2,
+            "track_title": "Panim"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 84,
+        "fields": {
+            "album": 10,
+            "disc_number": 1,
+            "track_number": 3,
+            "track_title": "Kav"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 85,
+        "fields": {
+            "album": 10,
+            "disc_number": 1,
+            "track_number": 4,
+            "track_title": "Nogah"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 86,
+        "fields": {
+            "album": 10,
+            "disc_number": 1,
+            "track_number": 5,
+            "track_title": "Separ"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 87,
+        "fields": {
+            "album": 10,
+            "disc_number": 1,
+            "track_number": 6,
+            "track_title": "Imma"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 88,
+        "fields": {
+            "album": 10,
+            "disc_number": 1,
+            "track_number": 7,
+            "track_title": "Ta'amim"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 89,
+        "fields": {
+            "album": 10,
+            "disc_number": 1,
+            "track_number": 8,
+            "track_title": "Iyyun"
+        }
+    },
+    {
+        "model": "tzadik_api.track",
+        "pk": 90,
+        "fields": {
+            "album": 10,
+            "disc_number": 1,
+            "track_number": 9,
+            "track_title": "Chalal"
+        }
     }
 ]
